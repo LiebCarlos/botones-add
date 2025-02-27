@@ -2,4 +2,4 @@ El siguiente script implementa dinámicamente la funcionalidad para aumentar o d
 
 Este comportamiento puede observarse en cualquier tour disponible en [Calafate Tours](https://calafate.tours/). Por ejemplo, al hacer clic en el botón "Reserva", se visualizará la interacción con el selector de pasajeros.
 
-![image](https://github.com/user-attachments/assets/875cf785-10b7-4510-b750-e16b8503ae49)
+![image](https://github.com/source/add-btns.jpg)
